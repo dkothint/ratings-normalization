@@ -18,10 +18,10 @@ The Goal...
 This application attempts to normalize the average ratings of businesses in their early days by identifying and fixing the ratings given by 'stingy' reviewers.
 
 Technologies used:
-This is a simple stand-alone JAVA application meant to be run periodically using job scheduling tools like Cron. 
-Maven is used for project build management. 
-Gson is used for working with JSON data,mainly for its ease of use. 
-Postgres is the database used because of its flexibility and performance.
+1. This is a simple stand-alone JAVA application meant to be run periodically using job scheduling tools like Cron. 
+2. Maven is used for project build management. 
+3. Gson is used for working with JSON data,mainly for its ease of use. 
+4. Postgres is the database used because of its flexibility and performance.
 
 A simple web-app with RESTful web services is also developed to access the results of this application.
 Please refer to this repo:  https://github.com/dkothint/RatingsNormalization-REST

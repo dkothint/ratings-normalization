@@ -24,7 +24,7 @@ Gson is used for working with JSON data,mainly for its ease of use.
 Postgres is the database used because of its flexibility and performance.
 
 A simple web-app with RESTful web services is also developed to access the results of this application.
-Please refer to this repo: 
+Please refer to this repo:  https://github.com/dkothint/RatingsNormalization-REST
 
 
 

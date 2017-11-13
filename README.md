@@ -26,5 +26,8 @@ Technologies used:
 A simple web-app with RESTful web services is also developed to access the results of this application.
 Please refer to this repo:  https://github.com/dkothint/RatingsNormalization-REST
 
+Results:
+Yelp dataset was mined in this application to analyze the reviews. A total of 170 business were found which had less than 20 reviews (making them fairly new in business) and were affected by ratings from 'stingy' reviewers. This number is expected to be significantly higher if we reduce the threshold for classifying reviewers as 'stingy' from 10 to 5.
+
 
 
